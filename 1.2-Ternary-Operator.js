@@ -43,6 +43,9 @@ const findMax = (a, b, c) => {
 
 findMax(4, 2, 9);
 
+//Lv3
+//Ex4
+
 console.log("Lv3 - Ex4 (evenOdd)");
 
 const evenOdd = (numArray) => {
