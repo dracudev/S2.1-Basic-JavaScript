@@ -15,11 +15,11 @@ console.log(array3)
 //Ex2
 console.log("Lv1 - Ex1 (restSum)");
 
-function sum(...nums){
+function sum2(...nums){
     return nums.reduce((a, b) => a + b, 0)
 }
 
-console.log(sum(5, 5, 5, 5))
+console.log(sum2(5, 5, 5, 5))
 
 //Lv2
 //Ex3

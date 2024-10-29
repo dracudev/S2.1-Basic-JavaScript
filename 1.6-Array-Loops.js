@@ -27,9 +27,9 @@ console.log("Lv1 - Ex3 (filter)");
 
 let numeros = [1, 2, 3, 4, 5, 6];
 
-let newArray = numeros.filter(num => num % 2 == 0)
+let newArray13 = numeros.filter(num => num % 2 == 0)
 
-console.log(newArray)
+console.log(newArray13)
 
 //Lv2
 //Ex4

@@ -5,28 +5,28 @@ console.log("Ex1.5 - Array transformations");
 //Ex1
 console.log("Lv1 - Ex1 (map)");
 
-let array = [1, 2, 3, 4]
-let newArray = array.map(num => num * 2)
+let array9 = [1, 2, 3, 4]
+let newArray9 = array9.map(num => num * 2)
 
-console.log(newArray)
+console.log(newArray9)
 
 //Lv1
 //Ex2
 console.log("Lv1 - Ex2 (filter)");
 
-let array2 = [1, 2, 3, 4]
-let newArray2 = array2.filter(num => num % 2 == 0)
+let array10 = [1, 2, 3, 4]
+let newArray10 = array10.filter(num => num % 2 == 0)
 
-console.log(newArray2)
+console.log(newArray10)
 
 //Lv1
 //Ex3
 console.log("Lv1 - Ex3 (find)");
 
-let array3 = [1, 10, 8, 11]
-let newArray3 = array3.find(num => num > 10)
+let array11 = [1, 10, 8, 11]
+let newArray11 = array11.find(num => num > 10)
 
-console.log(newArray3)
+console.log(newArray11)
 
 //Lv1
 //Ex4
