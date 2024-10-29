@@ -6,9 +6,7 @@ console.log("Ex1.7 - Promises & Async/Await");
 console.log("Lv1 - Ex1 (promise)");
 
 const promise = new Promise((resolve) => {
-    setTimeout(() => {
-        resolve("Hello, world")
-    }, 2000)
+    setTimeout(resolve, 2000, "Hello, world");
 })
 
 //Lv1
@@ -26,11 +24,7 @@ console.log("Lv1 - Ex3 (reject)");
 const inputGreet = (input) => {
     return new Promise((resolve, reject) => {
         if (input == "hello")
-        {
-            setTimeout(() => {
-                resolve("Input is hello")
-            }, 2000)
-        }
+            setTimeout(resolve, 2000, "Input is hello")
         else
             reject("Input is not hello")
     })
@@ -74,15 +68,11 @@ myAsync2(promise)
 console.log("Lv3 - Ex6 (promiseAll)");
 
 const promise3 = new Promise((resolve) => {
-    setTimeout(() => {
-        resolve("promise3 worked!")
-    }, 2000)
+    setTimeout(resolve, 2000, "promise3 worked!");
 })
 
 const promise4 = new Promise((resolve) => {
-    setTimeout(() => {
-        resolve("promise4 worked!")
-    }, 3000)
+    setTimeout(resolve, 3000, "promise4 worked!");
 })
 
 const promiseAll = Promise.all([promise3, promise4])
