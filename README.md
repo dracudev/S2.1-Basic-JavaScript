@@ -211,15 +211,3 @@ This project is focused on learning and practicing **JavaScript** fundamentals, 
 ## 🌐 Deployment
 
 No needed for this project.
-
-<br>
-
-## 🤝 Contributions
-
-Contributions are welcome! Please follow the steps below to contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/NewFeature`
-3. Make your changes and commit them: `git commit -m 'Add New Feature'`
-4. Push your changes to the branch: `git push origin feature/NewFeature`
-5. Open a pull request.
