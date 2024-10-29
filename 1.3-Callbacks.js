@@ -1,4 +1,4 @@
-//Ex1.2 - Ternary Operator
+//Ex1.3 - Callbacks
 console.log("Ex1.3 - Callbacks");
 
 //Lv1
