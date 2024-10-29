@@ -7,28 +7,28 @@ console.log("Lv1 - Ex1 (canDrive)");
 
 const canDrive = (age) => {
     const message = age >= 18 ? "Can drive" : "Can't drive"
-    console.log(message)
+    console.log(`With ${age} years you ${message}`)
 }
 
-canDrive(129);
+canDrive(12);
 
 //Lv1
 //Ex2
 console.log("Lv1 - Ex2 (biggestNumber)");
 
 const biggestNumber = (number1, number2) => {
-    const message = number1 >= number2 ? `${number1} is bigger` : `${number2} is bigger`
+    const message = number1 >= number2 ? `${number1} is bigger than ${number2}` : `${number2} is bigger than ${number1}`
     console.log(message)
 }
 
-biggestNumber(2, 2);
+biggestNumber(8, 2);
 
 //Lv2
 //Ex3
 console.log("Lv2 - Ex3 (findSign)");
 const findSign = (num) => {
     const result = num > 0 ? "Positive" : (num == 0 ? "0" : "Negative")
-    console.log(`The num is: ${result}`)  
+    console.log(`${num} is ${result}`)  
 }
 
 findSign(1201);
