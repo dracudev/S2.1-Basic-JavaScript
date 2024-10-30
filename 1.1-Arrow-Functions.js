@@ -12,7 +12,7 @@ console.log(add(1, 6));
 //Ex2
 console.log("Lv1 - Ex2 (Random number)");
 
-const randomNumber = () => {return Math.floor(Math.random() * 100)}
+const randomNumber = () => {return Math.floor(Math.random() * 100 + 1)}
 
 console.log(randomNumber());
 

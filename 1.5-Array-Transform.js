@@ -6,7 +6,7 @@ console.log("Ex1.5 - Array transformations");
 console.log("Lv1 - Ex1 (map)");
 
 let array9 = [1, 2, 3, 4]
-let newArray9 = array9.map(num => num * 2)
+let newArray9 = array9.map(num => num * num)
 
 console.log(newArray9)
 
