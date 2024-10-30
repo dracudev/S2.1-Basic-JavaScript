@@ -173,13 +173,12 @@ This project is focused on learning and practicing **JavaScript** fundamentals, 
 ## 💻 Technologies Used
 
 - JavaScript (ES6+)
-- Node.js
 
 <br>
 
 ## 📋 Requirements
 
-- **Node.js** v14.17.0 or higher
+- **Node.js** or **Browser Console**
 - **Code Editor** (e.g., [VS Code](https://code.visualstudio.com/))
 
 <br>
@@ -203,8 +202,13 @@ This project is focused on learning and practicing **JavaScript** fundamentals, 
 
 ## ▶️ Execution
 
-1. Run each exercise individually in the console.
-2. Modify the code as needed to explore additional functionalities.
+
+1. **Usando Node.js:**
+   - Ejecuta el proyecto con el comando `node --watch` en tu terminal.
+
+2. **Inspección en el Navegador:**
+   - Abre el proyecto en tu navegador y utiliza la opción de "inspeccionar" para acceder a la consola.
+
 
 <br>
 
