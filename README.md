@@ -19,7 +19,7 @@ This project is focused on learning and practicing **JavaScript** fundamentals, 
 
 ### Arrow Functions
 
-#### Level 1
+#### ⭐ Level 1
 
 - **Exercise 1**: Convert functions. Transform a basic function `add` into an arrow function that accepts two parameters and returns their sum.
   
@@ -27,11 +27,11 @@ This project is focused on learning and practicing **JavaScript** fundamentals, 
 
 - **Exercise 3**: Using 'this' in arrow functions. Create a `Person` class with a property `name` and a `greet` method that uses an arrow function to print a greeting including the person's name.
 
-#### Level 2
+#### ⭐⭐ Level 2
 
 - **Exercise 4**: Arrow function inside a loop. Create a function `printNumbers` that accepts an array of numbers and uses a for loop with an arrow function to print each number to the console.
 
-#### Level 3
+#### ⭐⭐⭐ Level 3
 
 - **Exercise 5**: Arrow function with `setTimeout`. Create an arrow function that prints a message to the console after a delay of 3 seconds.
 
@@ -209,9 +209,3 @@ This project is focused on learning and practicing **JavaScript** fundamentals, 
 2. **Inspección en el Navegador:**
    - Abre el proyecto en tu navegador y utiliza la opción de "inspeccionar" para acceder a la consola.
 
-
-<br>
-
-## 🌐 Deployment
-
-No needed for this project.
