@@ -1,4 +1,4 @@
-# S2.1 Basic JavaScript
+# Basic JavaScript
 
 ## 📄 Description
 
